@@ -13,10 +13,6 @@ import (
 )
 
 // Constants
-const (
-	apiURL      = "https://www.tarantool.io/en/accounts/customer_zone/api"
-	downloadURL = "https://www.tarantool.io/en/accounts/customer_zone/packages/"
-)
 
 func main() {
 	// 	if len(os.Args) < 3 || len(os.Args) > 4 {

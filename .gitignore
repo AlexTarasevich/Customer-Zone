@@ -1,0 +1,9 @@
+# Файл с кредами 
+/credentials.txt
+
+# Скомпилированные файлы
+/customer_zome
+
+
+# MaOS
+.DS_Store
